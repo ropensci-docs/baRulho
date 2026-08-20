@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "435225e25bb70434661749aee36b07f03712673a",
+    "author": "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+    "time": "2026-07-21T15:59:39Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update CITATION.cff\n"
+  },
+  "repo": "https://github.com/ropensci/baRulho",
+  "pkg": "baRulho",
+  "time": "2026-08-20T05:16:51Z"
+}
